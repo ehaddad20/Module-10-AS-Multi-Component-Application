@@ -20,7 +20,3 @@ A Student Portal Dashboard built with React and TypeScript. It shows how to shar
 npm install
 npm run dev
 ```
-
-## Links
-- GitHub: (add link)
-- Live site: (add Vercel link)
